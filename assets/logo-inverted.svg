@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 430" role="img" aria-label="Sentence Labs">
+  <g fill="currentColor">
+    <rect x="0" y="0" width="292" height="60"/>
+    <rect x="0" y="0" width="60" height="108"/>
+    <rect x="0" y="108" width="200" height="60"/>
+    <rect x="140" y="108" width="60" height="322"/>
+    <rect x="0" y="284" width="60" height="146"/>
+    <rect x="0" y="356" width="200" height="74"/>
+    <rect x="232" y="108" width="60" height="322"/>
+    <rect x="232" y="356" width="176" height="74"/>
+    <circle cx="451" cy="387" r="26"/>
+  </g>
+</svg>
