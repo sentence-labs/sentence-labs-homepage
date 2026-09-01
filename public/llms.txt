@@ -8,7 +8,7 @@ lets products exchange structured state live, reliably, and at scale.
 
 ## Contact
 
-- [hello@sentence-labs.com](mailto:hello@sentence-labs.com)
+- [hi@sentence-labs.com](mailto:hi@sentence-labs.com)
 
 ## Site
 
