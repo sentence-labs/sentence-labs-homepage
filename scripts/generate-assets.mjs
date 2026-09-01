@@ -31,4 +31,8 @@ await sharp(mark, { density: 300 })
   .resize(180, 180, { fit: 'contain', background: '#0A0A08' })
   .png()
   .toFile('public/apple-touch-icon.png');
-console.log('wrote public/og.png and public/apple-touch-icon.png');
+await sharp(mark, { density: 300 })
+  .resize(48, 48, { fit: 'contain', background: '#0A0A08' })
+  .png()
+  .toFile('public/favicon.png');
+console.log('wrote public/og.png, public/apple-touch-icon.png, public/favicon.png');
